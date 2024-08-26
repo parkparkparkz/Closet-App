@@ -1,0 +1,17 @@
+[
+    {
+      "colour": "white",
+      "fit": 1,
+      "fabric": "cotton",
+      "clothingType": "shirt"
+
+    },
+
+    {
+      "colour": "blue",
+      "fit": 2,
+      "fabric": "denim",
+      "clothingType": "pants"
+
+    }
+]
